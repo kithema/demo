@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VendoMatic - Франчайзер</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <div class="header">
+            <div class="logo">Vendo<span>Matic</span></div>
+            <div class="lang-switch">
+                <button class="lang-btn" data-lang="ru">🇷🇺 RU</button>
+                <button class="lang-btn" data-lang="en">🇬🇧 EN</button>
+            </div>
+        </div>
+
+        <div class="menu">
+            <button class="menu-item active" data-page="machines">📦 Торговые аппараты</button>
+            <button class="menu-item" data-page="calendar">📅 Календарь обслуживания</button>
+            <button class="menu-item" data-page="schedule">📋 График работ</button>
+        </div>
+
+        <div class="content">
+            
+            <div id="page-machines" class="page active">
+                <div class="card">
+                    <h3>📂 Импорт из CSV</h3>
+                    <div class="upload-zone" id="uploadZone">
+                        <div>📁 Перетащите файл CSV сюда или нажмите для выбора</div>
+                        <input type="file" id="csvFile" accept=".csv" style="display: none;">
+                        <button id="uploadBtn" style="margin-top: 15px;">Выбрать файл</button>
+                    </div>
+                    <div id="uploadResult"></div>
+                </div>
+
+                <div class="card">
+                    <h3>📊 Список торговых аппаратов</h3>
+                    <div class="table-wrapper">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Серийный номер</th>
+                                    <th>Модель</th>
+                                    <th>Производитель</th>
+                                    <th>Локация</th>
+                                    <th>Статус</th>
+                                    <th>Дата производства</th>
+                                    <th>Следующее ТО</th>
+                                    <th>Действия</th>
+                                </tr>
+                            </thead>
+                            <tbody id="machines-list"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+           
+            <div id="page-calendar" class="page">
+                <div class="card">
+                    <h3>⚙️ Настройки календаря</h3>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Режим отображения</label>
+                            <select id="calendar-mode">
+                                <option value="all">📊 Все аппараты</option>
+                                <option value="single">🎯 Один аппарат</option>
+                            </select>
+                        </div>
+                        <div class="form-group" id="machine-select-group" style="display:none;">
+                            <label>Выберите аппарат</label>
+                            <select id="calendar-machine"></select>
+                        </div>
+                        <div class="form-group">
+                            <label>Период</label>
+                            <select id="calendar-period">
+                                <option value="week">📅 Неделя</option>
+                                <option value="month" selected>📆 Месяц</option>
+                                <option value="year">🗓️ Год</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>&nbsp;</label>
+                            <button id="refresh-calendar">🔄 Обновить</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="calendar-container"></div>
+            </div>
+
+         
+            <div id="page-schedule" class="page">
+                <div class="card">
+                    <h3>➕ Создание заявки</h3>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Торговый аппарат</label>
+                            <select id="order-machine"></select>
+                        </div>
+                        <div class="form-group">
+                            <label>Приоритет</label>
+                            <select id="order-priority">
+                                <option value="normal">🟢 Обычный</option>
+                                <option value="high">🟠 Высокий</option>
+                                <option value="emergency">🔴 Авария</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Дата выполнения</label>
+                            <input type="date" id="order-date">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Заголовок</label>
+                        <input type="text" id="order-title" placeholder="Краткое описание" style="width:100%">
+                    </div>
+                    <div class="form-group">
+                        <label>Описание</label>
+                        <textarea id="order-desc" rows="2" placeholder="Подробное описание работ..." style="width:100%"></textarea>
+                    </div>
+                    <button id="create-order">✅ Создать заявку</button>
+                </div>
+
+                <div class="card">
+                    <h3>👥 Расписание сотрудников</h3>
+                    <div id="schedule-container"></div>
+                </div>
+
+                <div class="card">
+                    <h3>📋 Список заявок</h3>
+                    <div class="table-wrapper">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Аппарат</th>
+                                    <th>Модель</th>
+                                    <th>Заголовок</th>
+                                    <th>Приоритет</th>
+                                    <th>Статус</th>
+                                    <th>Сотрудник</th>
+                                    <th>Дата</th>
+                                    <th>Действия</th>
+                                </tr>
+                            </thead>
+                            <tbody id="orders-list"></tbody>
+                        </table>
+                    </div>
+                    <div class="actions" style="margin-top: 20px; text-align: right;">
+                        <button id="save-schedule">💾 Сохранить изменения</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
