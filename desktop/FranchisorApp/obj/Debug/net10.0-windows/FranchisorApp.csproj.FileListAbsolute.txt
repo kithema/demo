@@ -1,0 +1,100 @@
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.Form1.resources
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.GenerateResource.cache
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.AssemblyInfoInputs.cache
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.AssemblyInfo.cs
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.CoreCompileInputs.cache
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.exe
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.deps.json
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.runtimeconfig.json
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.dll
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.pdb
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.dll
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\refint\FranchisorApp.dll
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.pdb
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.genruntimeconfig.cache
+C:\Users\Kithema\source\repos\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\ref\FranchisorApp.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.exe
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.deps.json
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.runtimeconfig.json
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.pdb
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.Form1.resources
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.GenerateResource.cache
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.AssemblyInfoInputs.cache
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.AssemblyInfo.cs
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.CoreCompileInputs.cache
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\refint\FranchisorApp.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.pdb
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.genruntimeconfig.cache
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\ref\FranchisorApp.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\GeoJSON.Net.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Npgsql.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Npgsql.GeoJSON.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.AssemblyReference.cache
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\Franchis.BDF2A1A8.Up2Date
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.Forms.ToastNotificationForm.resources
+C:\Users\olabo\source\repos\11111\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\BCrypt.Net-Next.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.exe
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.deps.json
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.runtimeconfig.json
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.pdb
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\BCrypt.Net-Next.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\GeoJSON.Net.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Npgsql.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Npgsql.GeoJSON.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.AssemblyReference.cache
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.Form1.resources
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.Forms.ToastNotificationForm.resources
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.GenerateResource.cache
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.AssemblyInfoInputs.cache
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.AssemblyInfo.cs
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.CoreCompileInputs.cache
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\Franchis.BDF2A1A8.Up2Date
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\refint\FranchisorApp.dll
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.pdb
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.genruntimeconfig.cache
+C:\Users\olabo\source\repos\11111 — копия (2)\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\ref\FranchisorApp.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\refint\FranchisorApp.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.pdb
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.exe
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.deps.json
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.runtimeconfig.json
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\FranchisorApp.pdb
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\BCrypt.Net-Next.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\GeoJSON.Net.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Npgsql.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\Npgsql.GeoJSON.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.AssemblyReference.cache
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.Form1.resources
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.Forms.ToastNotificationForm.resources
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.GenerateResource.cache
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.AssemblyInfoInputs.cache
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.AssemblyInfo.cs
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.csproj.CoreCompileInputs.cache
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\Franchis.BDF2A1A8.Up2Date
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\FranchisorApp.genruntimeconfig.cache
+C:\Users\Kithema\Desktop\FranchisorApp\FranchisorApp\obj\Debug\net10.0-windows\ref\FranchisorApp.dll
